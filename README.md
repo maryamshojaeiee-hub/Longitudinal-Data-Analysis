@@ -3,6 +3,8 @@ Analysis of a longitudinal cohort of 1,253 Alzheimer's patients followed annuall
 
 The projects follow one dataset through three stages: modelling a continuous outcome, modelling a binary outcome, and handling missing data from patient dropout.
 
+This was a group project for the Longitudinal Data Analysis course at Hasselt University (2025–2026). 
+
 # The data
 Patients from multiple clinical centers were included at first diagnosis of Alzheimer's disease and measured at baseline and once a year for six years (7 time points)
 
